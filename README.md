@@ -12,7 +12,7 @@ This patch is aimed at the Steam version of Little Busters: English Edition, a p
 - Textboxes are changed to look like the original
 - Revamped some menus like the original
 - Characters are slightly taller
-- Add in fan sprites for Suginami (optional)
+- Added in fan sprites for Suginami (optional)
 - The original OP is back! (set movie quality to low under system in game settings)
 
 Do note that the patch is uncensored by default to the levels of the original VN, not of Ecstasy. 
@@ -24,29 +24,32 @@ Because this is an asset replacement patch, there are limitations to what can be
 ## Screenshots
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/SS1.png">
-    <img src=".github/assets/SS1.png" alt="Main Menu" width="350"/>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-1.png">
+    <img src="assets/screenshot-1.png" alt="Main Menu" width="350"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/SS2.png">
-    <img src=".github/assets/SS2.png" alt="In-game" width="350"/>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-2.png">
+    <img src="assets/screenshot-2.png" alt="In-game" width="350"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/SS3.png">
-    <img src=".github/assets/SS3.png" alt="CGs" width="350"/>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-3.png">
+    <img src="assets/screenshot-3.png" alt="CGs" width="350"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/SS4.png">
-    <img src=".github/assets/SS4.png" alt="Events" width="350"/>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-4.png">
+    <img src="assets/screenshot-4.png" alt="Events" width="350"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/SS5.png">
-    <img src=".github/assets/SS5.png" alt="Choices" width="350"/>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-5.png">
+    <img src="assets/screenshot-5.png" alt="Choices" width="350"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/SS6.png">
-    <img src=".github/assets/SS6.png" alt="Battles" width="350"/>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-6.png">
+    <img src="assets/screenshot-6.png" alt="Suginami" width="350"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/SS7.png">
-    <img src=".github/assets/SS7.png" alt="Rankings" width="350"/>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-7.png">
+    <img src="assets/screenshot-7.png" alt="Battles" width="350"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/SS8.png">
-    <img src=".github/assets/SS8.png" alt="Baseball" width="350"/>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-8.png">
+    <img src="assets/screenshot-8.png" alt="Rankings" width="350"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-9.png">
+    <img src="assets/screenshot-9.png" alt="Baseball" width="350"/>
   </a>
 </p>
 

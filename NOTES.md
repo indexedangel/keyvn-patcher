@@ -115,7 +115,3 @@ On that note, a similar behaviour happened when the game called the final backrg
 You can't just replace a video in Luca Engine with another, it'll simply fail to load. Even if you're using the same codecs and the same settings, the game will just freeze. At least it's smart enough to skip the video if it doesn't exist. But anyways, evidently I managed to replace the videos, and the way I did it was painful to say the least.
 
 First you'll need to install the [WebM DirectShow Filters](https://www.free-codecs.com/webm_directshow_filters_download.htm) on your Windows system, which includes the encoder that Prototype used to make the videos. There seems to be very few software that can use DirectShow filters, but I went for [GraphStudioNext](https://github.com/cplussharp/graph-studio-next). It looks very outdated and it is a bit clunky (that seems to be a pattern here), but it got the job done. The videos are made using "webmmux", but I noticed that just using the muxer isn't enough, I also had to encode it using the VP8 filter included in the codecs. The issue I had was that almost nothing could feed into the encoder, that is except for MPEG1 decodes... Yuck. So that's why the videos look a bit worse than they did before.
-
-The final patchbay looked like this:
-<a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/.github/assets/graph.png">
-<img src=".github/assets/graph.png" alt="Graph"/>
