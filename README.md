@@ -15,6 +15,9 @@ Do note that the patch is uncensored by default to the levels of the original VN
 ## Screenshots
 
 <p align="center">
+  <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/installer.png">
+    <img src="assets/installer.png" alt="Patch Installer" width="350"/>
+  </a>
   <a href="https://raw.githubusercontent.com/Danar435/lbee-restoration/refs/heads/main/assets/screenshot-1.png">
     <img src="assets/screenshot-1.png" alt="Main Menu" width="350"/>
   </a>
