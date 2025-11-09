@@ -1,4 +1,12 @@
-/lucksystem
+# Local paths
 /output
 /backup
 /workdir
+
+# Patch paths
+/lbee-restoration-*
+/build
+/dist
+
+# ZIP files
+*.zip
