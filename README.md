@@ -61,11 +61,11 @@ If everything goes accordingly, the installer should finish with a SUCCESS messa
 
 If you've installed the patch and want to redownload the original files, right-click the game in Steam, select "Properties", navigate to "Installed Files", and click "Verify integrity of game files". Steam will then redownload all of the files that were replaced.
 
-Another thing you can do is to back up the `files` folder and `system.cnf` file to avoid redownloading the original files from Steam. 
+Another thing you can do is to back up the `files` folder and `system.cnf` file prior to installing the patch to avoid redownloading the original files from Steam. 
 
 ### Offline Installation
 
-If you want to use the installer on an offline machine, or if you want to download the assets yourself, then download the `Source Code` from the same release as the installer. Then extract the contents inside and place it in the same directory as the installer.
+If you want to use the installer on an offline machine, or if you want to download the assets yourself, then download the `Source Code` from the same release as the installer. Then extract the folder inside and place it in the same directory as the installer.
 
 ### Manual Installation
 
@@ -89,8 +89,8 @@ I've made some notes for those looking into making a similar patch or contribute
 - [WéΤοr](https://github.com/wetor) for [LuckSystem](https://github.com/wetor/LuckSystem) 
 - [G2](https://github.com/G2-Games) for [lbee-utils](https://github.com/G2-Games/lbee-utils)
 - [danil](https://github.com/thedanill) for [LB_repack](https://github.com/thedanill/LB_repack)
-- [Chris](https://github.com/chriskiehl) for [Gooey](https://github.com/chriskiehl/Gooey)
 - [Takafumi](https://forum.kazamatsuri.org/u/Takafumi/summary) for the [Suginami Mod](https://forum.kazamatsuri.org/t/little-busters-suginami-mutsumi-mod/823)
+- [Chris](https://github.com/chriskiehl) for [Gooey](https://github.com/chriskiehl/Gooey)
 - [CPlusSharp](https://github.com/cplussharp/) for [GraphStudioNext](https://github.com/cplussharp/graph-studio-next)
 - [Sep7](https://github.com/Sep7em) for feedback
 - [Kotomi](https://github.com/zipplet)
