@@ -10,7 +10,7 @@ This patch is aimed at the Steam version of Little Busters: English Edition, a p
 - Added in fan sprites for Suginami (optional)
 - The original OP is back! (set movie quality to low under system in game settings)
 
-Do note that the patch is uncensored by default to the levels of the original VN, not of Ecstasy. Also, the baseball minigame is not be restored to 4:3 yet.
+Do note that the patch is uncensored by default to the levels of the original VN, not of Ecstasy. Also, the baseball minigame is not restored to 4:3 yet.
 
 ## Screenshots
 
